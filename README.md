@@ -14,6 +14,10 @@ https://github.com/al-ghaly/Turtle-Crossy-Road-Game/assets/61648960/596bb5fb-daf
 - Developed using Python and the Turtle Graphics package.
 - Simple GUI for an easy and fun gaming experience.
 
+## Challenge
+> Level 4 is challenging, so you are challenged to reach level 5! <br>
+Show me your best!
+
 ## Getting Started
 
 ### Prerequisites
